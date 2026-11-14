@@ -1,10 +1,16 @@
 {
   "sites": [
     {
-      "name": "TMDB 全球影视发现",
+      "name": "TMDB 全球影视发现 V1（保留）",
       "type": 3,
       "api": "csp_tmdb_discovery",
       "ext": "https://raw.githubusercontent.com/donkechen03/xptv/main/tmdb.js"
+    },
+    {
+      "name": "TMDB 全球影视发现 V2",
+      "type": 3,
+      "api": "csp_tmdb_discovery_v2",
+      "ext": "https://raw.githubusercontent.com/donkechen03/xptv/main/tmdb-v2.js"
     }
   ]
 }
