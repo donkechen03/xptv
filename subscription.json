@@ -1,0 +1,10 @@
+{
+  "sites": [
+    {
+      "name": "TMDB 全球影视发现",
+      "type": 3,
+      "api": "csp_tmdb_discovery",
+      "ext": "https://raw.githubusercontent.com/donkechen03/xptv/main/tmdb.js"
+    }
+  ]
+}
